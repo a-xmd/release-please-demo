@@ -1,0 +1,1 @@
+trying out automated releases with release please and npm packages
