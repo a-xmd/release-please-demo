@@ -7,8 +7,6 @@ permissions:
 
 jobs:
   commitlint:
-    # disable for now.
-    if: false
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
