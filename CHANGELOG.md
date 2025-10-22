@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.3.0](https://github.com/a-xmd/release-please-demo/compare/v1.2.0...v1.3.0) (2025-10-22)
+
+
+### Features
+
+* add private package ([84c6298](https://github.com/a-xmd/release-please-demo/commit/84c6298ef1ce48db1bd019e03e6ae3ddccc3eac2))
+* disable workflow ([53b8473](https://github.com/a-xmd/release-please-demo/commit/53b847312d52c4164b8cbf81991f8b99637639c0))
+* wip ([bfe6bb5](https://github.com/a-xmd/release-please-demo/commit/bfe6bb52e4cceceb801a4c846c4c502d18725ea5))
+
 ## [1.2.0](https://github.com/a-xmd/release-please-demo/compare/v1.1.2...v1.2.0) (2025-10-22)
 
 
