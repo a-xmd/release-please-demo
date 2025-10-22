@@ -17,10 +17,10 @@ jobs:
         with:
           node-version: lts/*
           cache: npm
-      - name: Install commitlint
-        run: npm install -D @commitlint/cli @commitlint/config-conventional
         env:
           NODE_AUTH_TOKEN: ${{secrets.NPM_TOKEN}}
+      - name: Install commitlint
+        run: npm install -D @commitlint/cli @commitlint/config-conventional
       - name: Print versions
         run: |
           git --version
