@@ -7,8 +7,6 @@ permissions:
 
 jobs:
   commitlint:
-    # disable for now.
-    if: false
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -19,6 +17,9 @@ jobs:
         with:
           node-version: lts/*
           cache: npm
+          registry-url: "https://registry.npmjs.org"
+        env:
+          NODE_AUTH_TOKEN: ${{secrets.NPM_TOKEN}}
       - name: Install commitlint
         run: npm install -D @commitlint/cli @commitlint/config-conventional
       - name: Print versions
