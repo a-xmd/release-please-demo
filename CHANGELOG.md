@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.1](https://github.com/a-xmd/release-please-demo/compare/v1.3.0...v1.3.1) (2025-10-22)
+
+
+### Bug Fixes
+
+* add npm token to ci env ([#7](https://github.com/a-xmd/release-please-demo/issues/7)) ([c9dd744](https://github.com/a-xmd/release-please-demo/commit/c9dd744b5ec0caa7fddf2136e33d66f9281a351d))
+
 ## [1.3.0](https://github.com/a-xmd/release-please-demo/compare/v1.2.0...v1.3.0) (2025-10-22)
 
 
