@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/a-xmd/release-please-demo/compare/v1.0.0...v1.1.0) (2025-10-22)
+
+
+### Features
+
+* something ([54aefcd](https://github.com/a-xmd/release-please-demo/commit/54aefcdb27917382a6cdd7348daba36969b86dec))
+
 ## 1.0.0 (2025-10-22)
 
 
