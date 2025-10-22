@@ -1,1 +1,1 @@
-console.log("ello");
+import "@axmd/private-package";
